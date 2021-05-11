@@ -1,5 +1,4 @@
-NAME: BENNETT HAWTIN
-STUDENT NUMBER: 101211270
+Simulates a 4-way intersection where cars approach and obey traffic lights. Cars also respect one another and avoid colliding with cars in front of them. Cars move gracefully, and gently accelerate/decelerate according to their situation.
 
 FILES INCLUDED:
 	simulator.h
