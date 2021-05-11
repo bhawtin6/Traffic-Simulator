@@ -14,7 +14,11 @@ FILES INCLUDED:
 	trafficServer.c
 	vehicle.c
 	makefile
-	
+
+REQUIREMENTS
+	C compiler
+	libX11
+
 RUNNING INSTRUCTIONS
 download all files and place them in a known directory together
 in terminal, navigate to the directory and use command "make" to compile source code.
