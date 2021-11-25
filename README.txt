@@ -1,4 +1,4 @@
-Simulates a 4-way intersection where cars approach and obey traffic lights. Cars also respect one another and avoid colliding with cars in front of them. Cars move gracefully, and gently accelerate/decelerate according to their situation.
+Simulates a 4-way intersection where cars approach and obey traffic lights. Cars also respect one another and avoid colliding with cars in front of them. Cars move gracefully, and gently accelerate/decelerate according to their situation. Download 2021-05-31 23-20-11.mkv for a video preview
 
 FILES INCLUDED:
 	simulator.h
